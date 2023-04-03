@@ -15,7 +15,7 @@ for(j=1;j<=6;j++)
     return 0;
 }
 
-*/
+/*
   AAAAA
   AAAAA
   AAAAA
